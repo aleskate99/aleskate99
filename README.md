@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Alejandro 👋
+# Hola, mi nombre es Alejandro 👋
 ### Desarrollador de aplicaciones multiplataforma 
 
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma💻
