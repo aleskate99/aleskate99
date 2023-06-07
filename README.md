@@ -1,6 +1,8 @@
 # Hola, mi nombre es Alejandro 👋
 ### Desarrollador de aplicaciones multiplataforma 
 
+![https://github.com/aleskate99](https://raw.githubusercontent.com/aleskate99/aleskate99/master/Banner.jpg)
+
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma💻
 
 Mi experiencia abarca el diseño y desarrollo de aplicaciones multiplataforma, utilizando una amplia gama de tecnologías y lenguajes de programación. Me siento cómodo trabajando en entornos tanto de backend como de frontend, y tengo experiencia en el desarrollo de aplicaciones web, móviles y de escritorio.
@@ -14,7 +16,6 @@ Siempre estoy abierto a nuevos desafíos y emocionado por colaborar en proyectos
 En 2021 comencé en el mundo del desarrollo de aplicaciones cursando una formación profesional de grado superior (DAM) y actualmente me encuentro trabajando.
 Mi próximo objetivo es adentrarme en el mundo del desarrollo web cursando la formación profesional de grado superior (DAW).
 
-![https://github.com/aleskate99](https://raw.githubusercontent.com/aleskate99/aleskate99/master/Banner.jpg)
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
