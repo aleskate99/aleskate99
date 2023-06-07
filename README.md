@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Alejandro 👋
 ### Desarrollador de aplicaciones multiplataforma 
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma💻
 
 Mi experiencia abarca el diseño y desarrollo de aplicaciones multiplataforma, utilizando una amplia gama de tecnologías y lenguajes de programación. Me siento cómodo trabajando en entornos tanto de backend como de frontend, y tengo experiencia en el desarrollo de aplicaciones web, móviles y de escritorio.
 
