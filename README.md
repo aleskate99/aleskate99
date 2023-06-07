@@ -29,4 +29,4 @@ Y alguna más...
 
 
 ## Encuéntrame en:
-Linkedin: https://www.linkedin.com/in/alejandroblancogonzález1999
+[![LinkedIn]Linkedin: https://www.linkedin.com/in/alejandroblancogonzález1999
